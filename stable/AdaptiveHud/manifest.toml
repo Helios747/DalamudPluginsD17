@@ -1,8 +1,8 @@
 [plugin]
 repository = "https://github.com/Helios747/AdaptiveHudPlugin.git"
-commit = "2281bea1bcca392caa7b2cd7d359e3bc7de18ec2"
+commit = "78a15021fdb9a4ace5e2d75ecea259b2e4e3e20f"
 owners = [
     "Helios747"
 ]
 project_path = "AdaptiveHud"
-changelog = "Initial API9 work"
+changelog = "Fixes cases where the config window gets stuck too small"
